@@ -19,6 +19,7 @@ While not my first dashboard, it reflects my ability to design clean, functional
 🔗 [Click here to explore it on Tableau Public](https://public.tableau.com/app/profile/layshla.bouscal/viz/BuildYourFirstDashboard/Dashboard1)
 
 ## 🖼️ Screenshot
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard 1](https://github.com/user-attachments/assets/2a1f4870-c525-450c-83d1-a17f60801bd1)
+
 
 ## 📁 Project Folder Structure
